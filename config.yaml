@@ -3,5 +3,6 @@ strategy:
   sell_border: 70
   volume: 1000
 
-
 interval : 1 #ループの待ち時間(秒)
+
+technical_indicator_config: #テクニカル指標に用いる設定情報
