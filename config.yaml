@@ -1,0 +1,7 @@
+strategy:
+  buy_border: 50
+  sell_border: 70
+  volume: 1000
+
+
+interval : 1 #ループの待ち時間(秒)
